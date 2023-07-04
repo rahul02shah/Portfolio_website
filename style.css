@@ -489,6 +489,7 @@
     width: 100%;
 }
 .formfield{
+    outline: none;
     width: 100%;
     height: 42px;
     padding: 0 2rem;
